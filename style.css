@@ -1,0 +1,35 @@
+* {
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+}
+
+body {
+    line-height: 1.6;
+    background: rgb(248, 246, 213);
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background: green;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    gap: 2rem;
+}
+
+.nav-link {
+    color: rgb(0, 82, 0);
+    font-weight: bold;
+}
+
+.nav-link.active {
+    color: cyan;
+}
