@@ -1,3 +1,5 @@
 # Personal Portfolio
 
-This is my static-page portfolio website to showcase my skills, and help recruiters get to know me a little better. :)
+This is my portfolio website to showcase my skills and projects, and help recruiters get to know me a little better. :)
+
+Made using simple HTML, CSS, and Javascript.
